@@ -1,4 +1,4 @@
-# < # Hello world 👋 # /> #
+# < Hello world 👋 /> #
 ## I’m Tomás Augusto Tagliaferri, a full stack developer with 22 years old and programming enthusiast 
 
 About me:
