@@ -34,7 +34,7 @@ About me:
         <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fredux-original-logo%2F146365&psig=AOvVaw3AvkOOZ5s5MC0eNnYcz-Hv&ust=1653462114939000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNinysHI9_cCFQAAAAAdAAAAABAD" alt="image">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
     </a>
     <h1>Backend development</h1>
     <a href="#">
@@ -59,6 +59,6 @@ About me:
         <img src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
-        <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=60&color=30494f" alt="image">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
     </a>
 </p>
