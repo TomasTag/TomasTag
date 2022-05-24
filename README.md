@@ -1,3 +1,8 @@
+<pre><code><div class="header">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
+</div>
+</code></pre>
+
 # Hi there 👋
 ## I’m Tomás Augusto Tagliaferri, a full stack developer with 22 years old and programming enthusiast 
 
@@ -21,7 +26,6 @@ About me:
 </p>
 
 ## 🛠 My skills:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p>
     <h1>Programming languages</h1>
     <i class="devicon-javascript-plain colored"></i>
