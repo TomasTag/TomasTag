@@ -20,7 +20,7 @@ About me:
     </a>  
 </p>
 
-## 🛠 My skills:
+## 🛠 My skills: Javascript | CSS | HTML | Bootstrap | Redux | React | Express | Node | Sequelize | PostgreSQL
 <p>
     <h1>Programming languages</h1>
     <a href="#">
