@@ -34,7 +34,13 @@ About me:
         <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
+    </a>
+    <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> 
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <h1>Backend development</h1>
     <a href="#">
@@ -44,21 +50,17 @@ About me:
         <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
+        <img src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <h1>Software & Tools</h1>
+    <a href="#">
         <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
         <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
+    <h1>Database</h1>
     <a href="#">
         <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
-        <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
-        <img src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
     </a>
 </p>
