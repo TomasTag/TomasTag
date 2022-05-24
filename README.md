@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+## I’m Tomás Augusto Tagliaferri, a full stack developer with 22 years old and programming enthusiast 
 
-<!--
 **TomasTag/TomasTag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Things to know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal projects to improve my knowledge.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate with any other developer/s with who I can unwrap my skills, my agilities and my aptitudes.
+- 🤔 I’m looking for help with literally any type of task that I can learn or know. 
+- ⚡ Fun fact: I really like dealing with people.
+
+## 📫 How to reach me:
+<p>
+      <a href="https://www.linkedin.com/in/mshailant/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="MarZanett LinkedIn Profile" height="40" width="40">
+      </a> 
+    <a align='right' href="mailto:mshailant@gmail.com">
+                <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
+        </a>  
+</p>
