@@ -23,7 +23,36 @@ About me:
 ## 🛠 My skills:
 <p>
     <a href="#">
-        <img src="https://icongr.am/devicon/css3-original.svg?size=60&color=144752" alt="image">
-        <h1>CSS</h1>
+        <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/sequelize-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
 </p>
