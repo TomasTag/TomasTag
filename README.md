@@ -24,5 +24,6 @@ About me:
 <p>
     <a href="#">
         <img src="https://icongr.am/devicon/css3-original.svg?size=60&color=144752" alt="image">
+        <h1>CSS</h1>
     </a>
 </p>
