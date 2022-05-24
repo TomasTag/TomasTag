@@ -3,11 +3,12 @@
 
 About me:
 
+- 💻 Skills: Javascript | CSS | HTML | Bootstrap | Redux | React | Express | Node | Sequelize | PostgreSQL
 - 🔭 I’m currently working on personal projects to improve my knowledge.
 - 🌱 I’m currently studying systems engineering.
 - 👯 I’m looking to collaborate with any other developer/s with who I can unwrap my skills, my agilities and my aptitudes.
 - 🤔 I’m looking for help with literally any type of task that I can learn or know. 
-- 💻 I love using Software as a solution for every Problem.
+- 🔎 I love using Software as a solution for every Problem.
 - ⚡ Fun fact: I really like dealing with people and know a little about everything.
 
 ## 📫 How to reach me:
@@ -20,7 +21,7 @@ About me:
     </a>  
 </p>
 
-## 🛠 My skills: Javascript | CSS | HTML | Bootstrap | Redux | React | Express | Node | Sequelize | PostgreSQL
+## 🛠 My skills: 
 <p>
     <h1>Programming languages</h1>
     <a href="#">
