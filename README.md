@@ -21,24 +21,26 @@ About me:
 </p>
 
 ## 🛠 My skills:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <p>
+    <h1>Programming languages</h1>
+    <i class="devicon-javascript-plain colored"></i>
+    <h1>Frontend development</h1>
     <a href="#">
         <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
+        <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <h1>Backend development</h1>
+    <a href="#">
         <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
-        <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
-        <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
-        <img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=30494f" alt="image">
-    </a>
-    <a href="#">
         <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
         <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=30494f" alt="image">
