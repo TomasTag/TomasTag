@@ -1,8 +1,3 @@
-<pre><code><div class="header">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
-</div>
-</code></pre>
-
 # Hi there 👋
 ## I’m Tomás Augusto Tagliaferri, a full stack developer with 22 years old and programming enthusiast 
 
@@ -28,13 +23,18 @@ About me:
 ## 🛠 My skills:
 <p>
     <h1>Programming languages</h1>
-    <i class="devicon-javascript-plain colored"></i>
+    <a href="#">
+        <img src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" alt="image">
+    </a>
     <h1>Frontend development</h1>
     <a href="#">
         <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=60&color=30494f" alt="image">
     </a>
     <a href="#">
         <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=30494f" alt="image">
+    </a>
+    <a href="#">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fredux-original-logo%2F146365&psig=AOvVaw3AvkOOZ5s5MC0eNnYcz-Hv&ust=1653462114939000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNinysHI9_cCFQAAAAAdAAAAABAD" alt="image">
     </a>
     <h1>Backend development</h1>
     <a href="#">
