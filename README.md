@@ -1,5 +1,5 @@
 # < Hello world 👋 /> #
-## I’m Tomás Augusto Tagliaferri, a full stack developer with 22 years old and programming enthusiast 
+## I’m Tomás Augusto Tagliaferri, a 22 years old full stack developer and programming enthusiast 
 
 About me:
 
@@ -7,7 +7,7 @@ About me:
 - 🔭 I’m currently working on personal projects to improve my knowledge.
 - 🌱 I’m currently studying systems engineering.
 - 👯 I’m looking to collaborate with any other developer/s with who I can unwrap my skills, my agilities and my aptitudes.
-- 🤔 I’m looking for help with literally any type of task that I can learn or know. 
+- 🤔 I’m looking for be part of literally any type of task that I can learn or know. 
 - 🔎 I love using Software as a solution for every Problem.
 - ⚡ Fun fact: I really like dealing with people and know a little about everything.
 
